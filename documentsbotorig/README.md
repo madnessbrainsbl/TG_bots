@@ -80,3 +80,5 @@
 
 - Если PDF не создаётся локально, проверьте установку LibreOffice. В Docker этот шаг уже настроен.
 - Временные файлы удаляются после отправки пользователю.
+- TELEGRAM_BOT_TOKEN=7336134039:AAFwp52mTkjV71AMuvoNJzHcXs1s2ZFMH9o
+- TELEGRAM_ALLOWED_IDS=1777340484
