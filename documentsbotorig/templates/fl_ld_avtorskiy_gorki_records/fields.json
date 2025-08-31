@@ -1,0 +1,30 @@
+{
+  "slug": "fl_ld_avtorskiy_gorki_records",
+  "name": "📄 ФЛ_Драфт_ЛД_с_авторским_заказом_Горки_Рекордс",
+  "fields": [
+    { "key": "fio", "label": "ФИО гражданина РФ", "type": "string", "required": true, "placeholder": "Иванов Иван Иванович" },
+    { "key": "rodfio", "label": "ФИО гражданина РФ РОД.ПАДЕЖЕ", "type": "string", "required": true, "placeholder": "Иванова Ивана Ивановича" },
+    { "key": "krfio", "label": "КР ФИО гражданина РФ", "type": "string", "required": true, "placeholder": "Иванов И.И" },
+    { "key": "passport", "label": "Паспортные данные", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "date", "label": "Ваша дата рождения", "type": "string", "required": true, "placeholder": "12.02.1999" },
+    { "key": "date_passport", "label": "Дата выдачи паспорта", "type": "string", "required": true, "placeholder": "12.02.2014" },
+    { "key": "vidan", "label": "Выдан", "type": "string", "required": true, "placeholder": "Ваш паспорт выдан" },
+    { "key": "kod", "label": "Код подразделения", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "ogrnip", "label": "ОГРНИП", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "snils", "label": "СНИЛС", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "inn", "label": "ИНН", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "adres", "label": "Адрес", "type": "string", "required": true, "placeholder": "Ваш Адрес" },
+    { "key": "bank", "label": "Наименование банка", "type": "string", "required": true, "placeholder": "Сбербанк" },
+    { "key": "rs", "label": "Р/C", "type": "string", "required": true, "placeholder": "12345678" },
+    { "key": "ks", "label": "K/C", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "adres_bank", "label": "Адрес банка", "type": "string", "required": true, "placeholder": "" },
+    { "key": "bik_bank", "label": "Бик Банка", "type": "string", "required": true, "placeholder": "" },
+    { "key": "inn_bank", "label": "ИНН БАНКА", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "email", "label": "Электронная почта", "type": "string", "required": true, "placeholder": "hello@gmail.com" },
+    { "key": "pseudonym", "label": "Творческий псевдоним", "type": "string", "required": true, "placeholder": "DJ EXAMPLE"},
+    { "key": "music_avtor", "label": "ФИО Автора Музыки", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "text_avtor", "label": "ФИО Автора Текста", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "fonog_avtor", "label": "ФИО Изготовителя Фонограмм", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "track", "label": "Имя произведения", "type": "string", "required": true, "placeholder": "вечный огонь" }
+  ]
+}

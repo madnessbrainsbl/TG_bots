@@ -1,0 +1,15 @@
+{
+  "slug": "add_agreement_kalnysh",
+  "name": "📄 Дополнительное соглашение (Калныш)",
+  "fields": [
+    { "key": "fio", "label": "ФИО гражданина РФ", "type": "string", "required": true, "placeholder": "Иванов Иван Иванович" },
+    { "key": "rodfio", "label": "ФИО гражданина РФ РОД.ПАДЕЖЕ", "type": "string", "required": true, "placeholder": "Иванова Ивана Ивановича" },
+    { "key": "krfio", "label": "КР ФИО гражданина РФ", "type": "string", "required": true, "placeholder": "Иванов И.И" },
+    { "key": "music_fio", "label": "ФИО Автора Музыки", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "text_fio", "label": "ФИО Автора Текста", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "fonog_fio", "label": "ФИО Изготовителя Фонограмм", "type": "string", "required": true, "placeholder": "Андреев Сергей Михалков" },
+    { "key": "track", "label": "Имя произведения", "type": "string", "required": true, "placeholder": "вечный огонь" },
+    { "key": "passport", "label": "Паспортные данные", "type": "string", "required": true, "placeholder": "1234 567890" },
+    { "key": "pseudonym", "label": "Творческий псевдоним", "type": "string", "required": true, "placeholder": "DJ Example" }
+  ]
+}
