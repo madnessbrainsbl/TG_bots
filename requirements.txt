@@ -1,0 +1,15 @@
+aiogram==3.7.0
+pydantic==2.7.4
+python-dotenv==1.0.1
+SQLAlchemy==2.0.32
+alembic==1.13.2
+aiosqlite==0.20.0
+qrcode==7.4.2
+pillow==10.4.0
+sentry-sdk==2.13.0
+pytest==8.3.3
+
+# Для построения графиков в statistics.py
+matplotlib==3.9.2
+numpy==2.1.1
+prometheus-client
