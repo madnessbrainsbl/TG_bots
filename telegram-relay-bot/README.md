@@ -67,3 +67,4 @@ export FORUM_BOT_TOKEN="YOUR_FORUM_TOKEN"
 - В репозитории нет зашитых токенов
 - Локальные конфиги (`relay_config.json`, `forum_relay_config.json`) игнорируются через `.gitignore`
 - Используйте только шаблоны `*.example.json` и `.env.example`
+- В проекте есть `.gitattributes` для стабильных переносов строк в Git
